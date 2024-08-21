@@ -23,8 +23,7 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://github.com/user-attachments/assets/f6147080-1378-451c-b7ba-ddc5d99ea265"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 
 <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> 
 
