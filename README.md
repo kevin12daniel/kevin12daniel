@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Kevin Patiño✔️</h1>
 
-## Sobre  :
+## Sobre mi :
 
 - 🏢 Actualmente estudio Desarrollo de Software en el SENA
 - 📚 También estudio inglés en Cía Idioma
@@ -12,7 +12,7 @@
 
 <br>
 
-## Connect with me ☕ :
+## Contactame ☕ :
 
 <br>
 
