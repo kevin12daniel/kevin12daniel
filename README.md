@@ -16,8 +16,7 @@
 
 <br>
 
-[![@k.evin27¡](https://img.icons8.com/fluency/48/000000/instagram-new.png "@k.evin27¡")](https://www.instagram.com/k.evin27i?igsh=Z2ZxbDBzODE0amUx)) [![@k.evin27¡](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
-
+[![@k.evin27¡](https://img.icons8.com/fluency/48/000000/instagram-new.png "@k.evin27¡")](https://www.instagram.com/k.evin27i?igsh=Z2ZxbDBzODE0amUx)[![@kevin patiño](https://img.icons8.com/fluency/48/000000/linkedin.png "@kevin patiño")]([https://www.linkedin.com/in/anushkawijegoonawardana97/](https://www.linkedin.com/in/kevin-pati%C3%B1o-58324b324/)) 
 <br>
 
 ## What I am Good at 🧑‍💻 :
