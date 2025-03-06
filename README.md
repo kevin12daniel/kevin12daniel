@@ -33,10 +33,6 @@
 <br>🤔 Abierto a nuevas oportunidades laborales.
 <br>📂 Mi GitHub: github.com/kevin12daniel
 <br>
-
-
-
-
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conéctate conmigo
 <p align="center">
 	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -47,23 +43,13 @@
 	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
-
-
-
 ## 🛠️ My Skills
 
 ### Programming languages
-
 <p align="center"> 
-  &emsp; 
- 
-  &emsp;
- 
-  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-  &emsp;
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
@@ -173,65 +159,11 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
+	<a href="https://github.com/CustomFit-dev/CustomFit">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
+	<a href="https://github.com/al-mr1234/helados">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/7oSkaaa">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
