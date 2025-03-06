@@ -27,11 +27,11 @@
 - :school: Estudiante de Ingeniería Informática en la Universidad Militar Nueva Granada y de Análisis y Desarrollo de Software en el SENA.
 - :technologist:  Apasionado por resolver problemas a través del software y siempre en busca de nuevos desafíos.
 <br>- 🚀 Stack Tecnológico:
-<br>	- Lenguajes de programación: JavaScript, Python, PHP.
-<br>	- Frameworks: React, Django, Laravel.
-<br>- 🎯 Siempre aprendiendo nuevas tecnologías y buscando mejorar mis habilidades.
-<br>- 🤔 Abierto a nuevas oportunidades laborales.
-<br>- 📂 Mi GitHub: github.com/kevin12daniel
+<br>	Lenguajes de programación: JavaScript, Python, PHP.
+<br>	Frameworks: React, Django, Laravel.
+<br>🎯 Siempre aprendiendo nuevas tecnologías y buscando mejorar mis habilidades.
+<br>🤔 Abierto a nuevas oportunidades laborales.
+<br>📂 Mi GitHub: github.com/kevin12daniel
 <br>
 
 
