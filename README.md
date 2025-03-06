@@ -27,7 +27,6 @@
 - :school: Estudiante de Ingeniería Informática en la Universidad Militar Nueva Granada y de Análisis y Desarrollo de Software en el SENA.
 - :technologist:  Apasionado por resolver problemas a través del software y siempre en busca de nuevos desafíos.
 🚀 Stack Tecnológico:
-
 Lenguajes de programación: JavaScript, Python, PHP.
 Frameworks: React, Django, Laravel.
 🎯 Siempre aprendiendo nuevas tecnologías y buscando mejorar mis habilidades.
